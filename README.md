@@ -130,7 +130,5 @@ A: Yes! It was built specifically to solve the Steam Deck / Linux Proton issue w
 ## 🏆 Credits
 
 - **ThirteenAG**: Creator of Widescreen Fixes Pack & Ultimate ASI Loader.
-- **Aero_**: Collaborator.
-- **xan1242**: Collaborator.
 - **lambdan**: For reporting issue #1903 requesting the NFSU2 save trick.
 - **EA Black Box**: Creators of Need for Speed: Most Wanted (2005).
